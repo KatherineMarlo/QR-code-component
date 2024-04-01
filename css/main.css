@@ -231,7 +231,7 @@ figure {
   /* Style adjustments for viewports that meet the condition */
 
   .container {
-    max-width: 400px;
+    max-width: 20%;
   }
 
   .content-wrapper {
